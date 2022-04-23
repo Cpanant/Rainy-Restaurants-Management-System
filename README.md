@@ -1,3 +1,6 @@
+Hosted url 
+link: https://nice-mushroom-0899a9010.1.azurestaticapps.net
+
 <div align="center">
 <h1> A Fully Functional Restaurant Website </h1>
 
